@@ -1,0 +1,2 @@
+Overwatch/Pharah.jpg
+$text10 Shot Down,$playvideo PharahDom.mp4,$pinup Pharah

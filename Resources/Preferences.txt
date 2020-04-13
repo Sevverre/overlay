@@ -1,0 +1,12 @@
+hyp_delay:250
+hyp_game:None
+hyp_opacity:1
+hyp_able:1
+hyp_pinup:1
+s_playing:1
+delold:1
+fontsize:12
+hyp_gfile_var:0
+background_select_var:0
+s_rulename:Overwatch Helpful
+UseHSBackground:1

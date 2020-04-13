@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 741, in run
+    self.c_vid,self.c_txt,self.c_pinup,self.c_hypno)
+TypeError: launch() missing 10 required positional arguments: 'loopingAudio', 'AudioType', 'gifset', 'c_vid', 'c_txt', 'c_pinup', 'c_homework', 'c_wordknt', 'c_CharSelect', and 'c_hypno'
+

@@ -1,0 +1,1 @@
+$playsound Punishment Buzz.mp3,$writeforme1,$RandText-Insult5

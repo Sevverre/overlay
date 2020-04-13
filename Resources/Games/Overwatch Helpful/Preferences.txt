@@ -1,0 +1,27 @@
+hyp_delay:500
+hyp_game:OW
+hyp_opacity:3
+hyp_homework:Banner
+hyp_words:High
+loopingAudio:None
+AudioType:Either
+hyp_able:0
+hyp_pinup:1
+s_playing:0
+Freeplay:0
+hyp_banword:0
+hyp_tranbanr:0
+display_rules:0
+delold:1
+s_decay:10
+s_decay_pow:-3
+hyp_dom:Female
+hyp_sub:Girl
+FemSex:None
+fontsize:20
+hyp_gfile_var:28
+background_select_var:0
+s_rulename:Overwatch Helpful
+sub:Mercy
+dom:Zenyatta
+UseHSBackground:0

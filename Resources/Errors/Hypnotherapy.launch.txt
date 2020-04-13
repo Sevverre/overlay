@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 765, in launch
+    e = Hypnotherapy(root, image_files, delay, opacity, game, homework,
+NameError: name 'homework' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 765, in launch
+    e = Hypnotherapy(root, image_files, delay, opacity, game, homework,
+NameError: name 'homework' is not defined
+

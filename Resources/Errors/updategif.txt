@@ -1,0 +1,283 @@
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 839, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 839, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 839, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 839, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "Overlay.py", line 839, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 835, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 832, in updategif
+    self.bg_image=next(self.gifcycle)
+AttributeError: 'Hypnotherapy' object has no attribute 'gifcycle'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 833, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 834, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 835, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 835, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage2" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 835, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage2" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 835, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage38" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 835, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage2" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 833, in updategif
+    print(next(self.gifcycle))
+StopIteration
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 835, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage2" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 829, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 830, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 830, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 830, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 830, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 830, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 830, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 830, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 830, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 829, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 829, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 827, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 827, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 827, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 827, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 827, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 847, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 847, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 847, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 847, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 859, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 861, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 861, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 863, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 844, in updategif
+    self.bg.itemconfig(self.bg.gif_create, image=self.bg_image)
+  File "C:\Users\Matt\anaconda3\lib\tkinter\__init__.py", line 2578, in itemconfigure
+    return self._configure(('itemconfigure', tagOrId), cnf, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+

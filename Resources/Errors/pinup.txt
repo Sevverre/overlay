@@ -1,0 +1,299 @@
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 843, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage301" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 841, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage151" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 854, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage151" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 854, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage151" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 853, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage151" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 853, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage151" doesn't exist
+
+Traceback (most recent call last):
+  File "Overlay.py", line 853, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 849, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 847, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 847, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 851, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 852, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 852, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 852, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 852, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage55" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 852, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 852, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage1" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 852, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 844, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 845, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 849, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 846, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 846, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 847, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 847, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 848, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 849, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=ImageTk.PhotoImage(file=self.image_files[0])))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage15" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 844, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 844, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 842, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 842, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 842, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 842, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 842, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage19" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 862, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 858, in pinup
+    root = tk.Tk()
+NameError: name 'tk' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 861, in pinup
+    label = Label(root, image=photo)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2766, in __init__
+    Widget.__init__(self, master, 'label', cnf, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 862, in pinup
+    label = Label(root, image=photo)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2766, in __init__
+    Widget.__init__(self, master, 'label', cnf, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 815, in __init__
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 814, in __init__
+    label = Label(root, image=photo)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2766, in __init__
+    Widget.__init__(self, master, 'label', cnf, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 814, in __init__
+    label = Label(root, image=photo)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2766, in __init__
+    Widget.__init__(self, master, 'label', cnf, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 816, in __init__
+    label = Label(root, image=photo)
+  File "C:\Users\Matt\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 2766, in __init__
+    Widget.__init__(self, master, 'label', cnf, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 859, in pinup
+    self.fg.append(self.bg.create_image(self.x_cen, self.y_cen, image=next(self.foregrounds)))
+  File "C:\Users\Matt\anaconda3\lib\tkinter\__init__.py", line 2489, in create_image
+    return self._create('image', args, kw)
+_tkinter.TclError: image "pyimage10" doesn't exist
+

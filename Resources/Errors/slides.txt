@@ -1,0 +1,47 @@
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 881, in slides
+    if self.banwords == 1:
+AttributeError: 'Hypnotherapy' object has no attribute 'banwords'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 884, in slides
+    self.handleimages()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 902, in handleimages
+    if self.slideiter == 1:
+AttributeError: 'Hypnotherapy' object has no attribute 'slideiter'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 884, in slides
+    self.handleimages()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 902, in handleimages
+    if self.slideiter == 1:
+AttributeError: 'Hypnotherapy' object has no attribute 'slideiter'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 887, in slides
+    self.handleimages()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 905, in handleimages
+    if self.slideiter == 1:
+AttributeError: 'Hypnotherapy' object has no attribute 'slideiter'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 889, in slides
+    self.handleimages()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 907, in handleimages
+    if self.slideiter == 1:
+AttributeError: 'Hypnotherapy' object has no attribute 'slideiter'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 889, in slides
+    self.handleimages()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 907, in handleimages
+    if self.slideiter == 1:
+AttributeError: 'Hypnotherapy' object has no attribute 'slideiter'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 891, in slides
+    self.handleimages()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 909, in handleimages
+    if self.slideiter == 1:
+AttributeError: 'Hypnotherapy' object has no attribute 'slideiter'
+

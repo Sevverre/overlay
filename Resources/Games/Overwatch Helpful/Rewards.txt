@@ -1,0 +1,1 @@
+$playsound Reward Chime.mp3,$RandText-Praise5

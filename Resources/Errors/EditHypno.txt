@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 327, in EditHypno
+    self.SetupTab1()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 420, in SetupTab1
+    Checkbutton(self.tab2, text="Use ActionMenu", variable=self.UseActionMenu).place(x=300,y=150)
+AttributeError: 'Overlay' object has no attribute 'UseActionMenu'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 339, in EditHypno
+    self.SetupTab2()
+AttributeError: 'Overlay' object has no attribute 'SetupTab2'
+

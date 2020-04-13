@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 282, in EstablishRules
+    self.BuildActionMenu()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 472, in BuildActionMenu
+    if not self.rwdicon == '':
+AttributeError: 'Overlay' object has no attribute 'rwdicon'
+

@@ -1,0 +1,129 @@
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 809, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 844, in formatgif
+    self.gifcycle = [(ImageTk.PhotoImage(file=image)) for image in imagelist]
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 812, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 847, in formatgif
+    self.gifcycle = [(ImageTk.PhotoImage(file=image)) for image in imagelist]
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 797, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 832, in formatgif
+    self.gifcycle = [(ImageTk.PhotoImage(file=image)) for image in imagelist]
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 826, in formatgif
+    self.gifcycle = [(ImageTk.PhotoImage(file=image)) for image in imagelist]
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 827, in formatgif
+    self.gifcycle = [(ImageTk.PhotoImage(file=image)) for image in imagelist]
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 827, in formatgif
+    self.gifcycle = [(ImageTk.PhotoImage(file=image)) for image in imagelist]
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 827, in formatgif
+    self.gifcycle = [(ImageTk.PhotoImage(file=image)) for image in imagelist]
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 827, in formatgif
+    self.gifcycle = [(ImageTk.PhotoImage(file=image)) for image in imagelist]
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 828, in formatgif
+    img = ImageTk.PhotoImage(image)
+KeyError: 'C:\\Users\\Matt\\source\\repos\\Overlay\\Overlay\\Resources\\Hypno Gif\\Test\\Test-00.1.gif'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 828, in formatgif
+    img = ImageTk.PhotoImage(file=image)
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 828, in formatgif
+    img = ImageTk.PhotoImage(file=image)
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 828, in formatgif
+    img = ImageTk.PhotoImage(file=image)
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 828, in formatgif
+    img = ImageTk.PhotoImage(file=image)
+MemoryError
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 793, in __init__
+    self.setup_text()
+AttributeError: 'Hypnotherapy' object has no attribute 'setup_text'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 794, in __init__
+    self.updategif()
+AttributeError: 'Hypnotherapy' object has no attribute 'updategif'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 825, in formatgif
+    self.GifCycle.append(ImageTk.PhotoImage(Image.open(myimage).resize((250, 250), Image.LANCZOS)))
+NameError: name 'myimage' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 826, in formatgif
+    self.GifCycle = cycle(self.gifcyclist)
+AttributeError: 'Hypnotherapy' object has no attribute 'gifcyclist'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 825, in formatgif
+    self.gifcycle.append(ImageTk.PhotoImage(file=Image.open(image)))
+AttributeError: 'GifImageFile' object has no attribute 'read'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 789, in __init__
+    self.formatgif()
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 825, in formatgif
+    self.gifcycle.append(ImageTk.PhotoImage(Image.open(image)))
+MemoryError
+

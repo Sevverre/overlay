@@ -1,0 +1,2 @@
+Misc/WordSearch.jpg
+$wordsearch medium

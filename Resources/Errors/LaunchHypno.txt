@@ -1,0 +1,40 @@
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 221, in LaunchHypno
+    homework = str(self.hyp_homework.get())
+AttributeError: 'Overlay' object has no attribute 'hyp_homework'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 230, in LaunchHypno
+    globfile,s_rulename,fontsize,display_rules,
+NameError: name 'fontsize' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 227, in LaunchHypno
+    display_rules = self.display_rules.get()
+AttributeError: 'Overlay' object has no attribute 'display_rules'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 231, in LaunchHypno
+    globfile,s_rulename,fontsize,display_rules,
+NameError: name 'display_rules' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 232, in LaunchHypno
+    gifset,self.c_vid,self.c_txt,self.c_pinup,self.c_hypno)
+TypeError: __init__() missing 10 required positional arguments: 'loopingAudio', 'AudioType', 'gifset', 'c_vid', 'c_txt', 'c_pinup', 'c_homework', 'c_wordknt', 'c_CharSelect', and 'c_hypno'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 210, in LaunchHypno
+    gifset,self.c_vid,self.c_txt,self.c_pinup,self.c_hypno)
+TypeError: __init__() missing 1 required positional argument: 'c_hypno'
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 221, in LaunchHypno
+    if c_hypno.poll() == True:
+NameError: name 'c_hypno' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Matt\source\repos\Overlay\Overlay\Overlay.py", line 224, in LaunchHypno
+    hypno, pinup, s_rulename, fontsize, gifset, self.c_vid, self.c_txt, c_pinup, self.c_hypno)
+NameError: name 'c_pinup' is not defined
+
